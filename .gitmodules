@@ -1,0 +1,12 @@
+[submodule "utils/laplace-redux"]
+	path = utils/laplace-redux
+	url = git@github.com:runame/laplace-redux.git
+[submodule "utils/swag"]
+	path = utils/swag
+	url = git@github.com:wjmaddox/swa_gaussian.git
+[submodule "utils/posterior-symmetry"]
+	path = utils/posterior-symmetry
+	url = git@github.com:o-laurent/bayes_posterior_symmetry_exploration.git
+[submodule "utils/bayesian-neural-networks"]
+	path = utils/bayesian-neural-networks
+	url = git@github.com:JavierAntoran/Bayesian-Neural-Networks.git
